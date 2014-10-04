@@ -1,0 +1,12 @@
+/*logo & icons*/
+
+.main-logo {
+    width: 167px;
+    height: 80px;
+    /*margin-top: 22px;*/
+    text-indent: -100000px;
+    white-space: nowrap;
+    overflow: hidden;
+    background: url('../images/lg.jpg') no-repeat;
+    background-size: 100%;
+}
